@@ -62,3 +62,7 @@ main()
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
+
+## About Ramintel
+
+This project is developed and maintained by [Ramintel](https://ramintel.com/), an AI-ML and Generative AI company dedicated to advancing the state of artificial intelligence and machine learning solutions. Ramintel specializes in innovative GenAI technologies and community-driven tools for researchers and developers worldwide. 
